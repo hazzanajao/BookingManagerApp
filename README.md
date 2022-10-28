@@ -19,7 +19,7 @@ Main Functionalities:
 
 Hint: Picture references of the test coverage can be seen from the attached pictures.
 
-Important Remarks: This project was organised by Integrify Finland one of the leading Software Development Consultancy Company.
+Important Remarks: This project was organised by Integrify Finland, one of the leading Software Development Consultancy Companies in Finland.
 
 To run this program follow these steps below:
 1. Create a work directory on your computer
