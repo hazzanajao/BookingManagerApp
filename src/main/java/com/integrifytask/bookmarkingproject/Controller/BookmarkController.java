@@ -21,7 +21,7 @@ public class BookmarkController {
     }
 
     @GetMapping("/bookmarks")
-    public ResponseEntity<List<Bookmark>> getAllCars(){
+    public ResponseEntity<List<Bookmark>> getAllBookmarks(){
         List<Bookmark> bookmarks = bookmarkService.findAllBookmarks();
         return new ResponseEntity<>(bookmarks, HttpStatus.OK);
     }
