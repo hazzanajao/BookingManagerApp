@@ -1,6 +1,6 @@
 # BookingManagerApp
 
-This project is about developing a Bookmark manager, an application that’s similar to how bookmarking is performed in a browser. This app will allow you to bookmark URLs and organize them in different folders.
+This project is about the design and development of a Book Manager App, an application that’s similar to how bookmarking is performed in a browser. This app will allow you to bookmark URLs and organize them in different folders.
 This project explore knowledge of Relational Database Management (RDBM) design. In this project I have used these following frameworks and technologies here below:
 
 Tools & Technologies :
@@ -13,7 +13,7 @@ MySQL
 H2 In-memory Db
 JUnit5 + Mockito (For testing the Srvice Layers, Controllers and Repositories)
 
-For The Frontend view the Client UI I developed with Angular framework :
+For The Frontend, you can view the Client UI I developed with Angular framework:
 👉 https://bookmanagerapp-f4df2.web.app/home
 
 What is next?, I am working on the React Client UI. 
