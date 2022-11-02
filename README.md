@@ -13,6 +13,11 @@ MySQL
 H2 In-memory Db
 JUnit5 + Mockito (For testing the Srvice Layers, Controllers and Repositories)
 
+For The Frontend view the Client UI I developed with Angular framework :
+👉 https://bookmanagerapp-f4df2.web.app/home
+
+What is next?, I am working on the React Client UI. 
+
 Main Functionalities: 
 1. It allows Users to perform CRUD Operation on the Books
 2. It also allows users to create, Read, Update and Delete Folders
